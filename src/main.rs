@@ -1,7 +1,7 @@
 pub mod day01;
-
-use day01::solve;
+pub mod day02;
 
 fn main() {
-    solve()
+    // day01::solve();
+    day02::solve();
 }
